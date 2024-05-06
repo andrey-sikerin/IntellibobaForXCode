@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Intelliboba for Xcode</title>
+        <item>
+            <title>0.30.2</title>
+            <pubDate>Mon, 06 May 2024 17:13:26 +0300</pubDate>
+            <sparkle:version>315</sparkle:version>
+            <sparkle:shortVersionString>0.30.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/andrey-sikerin/IntellibobaForXCodeSparkle/releases/download/prod/Intelliboba.For.XCode-Installer.dmg" length="37824600" type="application/octet-stream" sparkle:edSignature="3t4+f/DAn7eCo3oooixSnunfZxv3rOX8yQusxpHumEla6Ux2Hx42XCSIIn0HWeHb0/RUmdoZ7RuLfkG4tRWvDg=="/>
+        </item>
+    </channel>
+</rss>
